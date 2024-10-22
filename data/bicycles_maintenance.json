@@ -1,0 +1,22 @@
+[
+    {
+        "idBicycle": 1,
+        "Type": "Reparacion",
+        "description": "reparacion de llanta"
+    },
+    {
+        "idBicycle": 2,
+        "Type": "Reparacion",
+        "description": "reparacion de llanta"
+    },
+    {
+        "idBicycle": 3,
+        "Type": "Reparacion",
+        "description": "reparacion de llanta"
+    },
+    {
+        "idBicycle": 7670,
+        "Type": "lavado",
+        "description": "por favor quiero que me laven la bicicleta"
+    }
+]

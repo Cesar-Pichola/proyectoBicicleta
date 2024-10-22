@@ -1,0 +1,10 @@
+[
+    {
+        "idBicycle": "1",
+        "description": "la bicicleta fue entregada"
+    },
+    {
+        "idBicycle": "1",
+        "description": "La bicicleta fue devuelta."
+    }
+]
